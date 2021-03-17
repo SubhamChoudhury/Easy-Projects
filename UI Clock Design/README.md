@@ -1,0 +1,3 @@
+- This is UI Designed Clock made using Vanilla Javascript and CSS3.
+- It displyas the time in 12-hour format as per IST.
+- Check the live clock here: https://ui-clock-design.netlify.app/
