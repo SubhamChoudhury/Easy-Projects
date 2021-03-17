@@ -1,0 +1,2 @@
+- This is a UI Designed Clock made using Vanilla JS and CSS 3. 
+- It shows the time in 12-hour format as per IST.
