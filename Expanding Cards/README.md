@@ -1,0 +1,2 @@
+- This is just a simple project made while revising the concepts of HTML, CSS and JS
+- Check it out at : https://expandingcards14.netlify.app/
