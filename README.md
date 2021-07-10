@@ -5,3 +5,4 @@ This repository contains few simple projects I made while learning WebDev(partic
 - Check the UI Clock Design: https://ui-clock-design.netlify.app/
 - Check the Expanding Cards Design: https://expandingcards14.netlify.app/
 - Check the Movie Web: https://movie-web14.netlify.app/
+- Practising
